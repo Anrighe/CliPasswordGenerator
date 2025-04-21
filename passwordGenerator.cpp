@@ -7,7 +7,7 @@ int main (int argc, const char *argv[]) {
 
 	// Argument parsing
 	constexpr short OPTIONAL_PASSWORD_LENGTH_ARGUMENT_POSITION = 1;
-	constexpr short DEFAULT_PASSWORD_LENGTH = 15;
+	constexpr short DEFAULT_PASSWORD_LENGTH = 16;
 
 	unsigned short passwordLength;
 	if (argc == 2) {

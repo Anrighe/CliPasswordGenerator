@@ -2,7 +2,7 @@
 CXX = g++
 
 # Compiler flags
-CXXFLAGS = -std=c++17 -Wall -Wextra -O3 -fopenmp
+CXXFLAGS = -std=c++17 -Wall -Wextra -O3
 
 # Target executable name
 TARGET = password
