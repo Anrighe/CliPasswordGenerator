@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "passwordGenerator.hpp"
+#include "password_generator.hpp"
 
 /** Generates a random password of a given length if provided, otherwise uses the default length (15) */
 int main (int argc, const char *argv[]) {

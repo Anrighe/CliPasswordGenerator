@@ -2,6 +2,7 @@
 #include <random>
 
 #include "string_utils.hpp"
+
 /**
  * Generates a random password of a given length by using characters from the ascii charset.
  * The password is generated using a random number generator which uses a uniform distribution.

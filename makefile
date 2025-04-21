@@ -8,7 +8,7 @@ CXXFLAGS = -std=c++17 -Wall -Wextra -O3
 TARGET = password
 
 # Source files
-SRCS = passwordGenerator.cpp
+SRCS = password_generator.cpp
 
 # Object files
 OBJS = $(SRCS:.cpp=.o)
