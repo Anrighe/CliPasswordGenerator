@@ -6,6 +6,8 @@
 - Customizable password length
 - Simple command line interface
 
+![Usage Example](./docs/2025-04-21%2022-09-47.gif)
+
 ---
 
 ### <b>Dependencies</b>
@@ -48,5 +50,5 @@ make
 make clean
 ```
 
-#### Or you can download the precompiled binary from the releases section.
+#### Or you can download the precompiled binary from the [releases section](https://github.com/Anrighe/CliPasswordGenerator/releases).
 
